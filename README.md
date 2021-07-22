@@ -7,5 +7,13 @@
   <li><a href="https://www.linkedin.com/in/itsvan-moreno-6815941a0/">linkedin</a></li>
   <li><a href="mailto:wuesis983@gmail.com">Email</a></li>
 </ul>
-<h2 style="align-content: center;">Skills</h2>
-<a <img src="https://raw.githubusercontent.com/wuesis/wuesis/master/skills/cpp.png" height="50px" style="max-width:100%;"> </a>
+<h2 style="text-align: center;">Skills</h2>
+<p>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/c.png" height="50px" style="max-width:100%;"> </a>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/cpp.png" height="50px" style="max-width:100%;"> </a>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/csharp.png" height="50px" style="max-width:100%;"> </a> 
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/java.png" height="50px" style="max-width:100%;"> </a>
+  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/typescript.png" height="50px" style="max-width:100%;"> </a>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/node.png" height="50px" style="max-width:100%;"> </a> 
+</p>
+
