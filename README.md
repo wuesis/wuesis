@@ -4,10 +4,10 @@
 <p>I love all IT world, and i'm facinated to learn and share</p>
 <h2 style="align-content: center;">Find me:</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/itsvan-moreno-6815941a0/">linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/itsvan-moreno-6815941a0/">Linkedin</a></li>
   <li><a href="mailto:wuesis983@gmail.com">Email</a></li>
 </ul>
-<h2 style="text-align: center;">Skills</h2>
+<h2 style="text-align: center;">Skills </h2>
 <p>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/c.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/cpp.png" height="50px" style="max-width:100%;"> </a>
@@ -16,4 +16,3 @@
   <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/typescript.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/node.png" height="50px" style="max-width:100%;"> </a> 
 </p>
-
