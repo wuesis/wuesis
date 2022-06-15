@@ -11,8 +11,9 @@
 <p>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/c.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/cpp.png" height="50px" style="max-width:100%;"> </a>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/vb.png" height="50px" style="max-width:100%;"> </a> 
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/csharp.png" height="50px" style="max-width:100%;"> </a> 
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/java.png" height="50px" style="max-width:100%;"> </a>
-  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/typescript.png" height="50px" style="max-width:100%;"> </a>
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/typescript.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/node.png" height="50px" style="max-width:100%;"> </a> 
 </p>
