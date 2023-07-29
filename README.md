@@ -1,7 +1,7 @@
  
 <h1 style="align-content: center;">Wuesis.Say(" Hello world! ");</h1>
-<p>Hi i'm a student at <a href="https://www.colomos.ceti.mx/">CETI COLOMOS</a></p>
-<p>I love all IT world, and i'm facinated to learn and share</p>
+<p>Hi I'm a student at <a href="https://www.colomos.ceti.mx/">CETI COLOMOS</a></p>
+<p>I love the IT world, and I'm fascinated to learn and share knowledge</p>
 <h2 style="align-content: center;">Find me:</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/itsvan-moreno-6815941a0/">Linkedin</a></li>
