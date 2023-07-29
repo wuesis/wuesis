@@ -16,7 +16,9 @@
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/java.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/typescript.png" height="50px" style="max-width:100%;"> </a>
  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/node.png" height="50px" style="max-width:100%;"> </a> 
-  <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/Angular.png" height="50px" style="max-width:100%;"> </a> 
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/Angular.png" height="50px" style="max-width:100%;"> </a> 
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/SQL.png" height="50px" style="max-width:100%;"> </a> 
+ <a> <img src="https://raw.githubusercontent.com/wuesis/wuesis/main/skills/Azure.png" height="50px" style="max-width:100%;"> </a> 
 </p>
 
 
