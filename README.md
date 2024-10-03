@@ -1,6 +1,6 @@
  
 <h1 style="align-content: center;">Wuesis.Say(" Hello world! ");</h1>
-<p>Hello budy!!!!<a href="https://www.colomos.ceti.mx/">CETI COLOMOS</a></p>
+<p>Hello budy!!!</p>
 <p>I love the IT world, and I'm fascinated to learn and share knowledge</p>
 <h2 style="align-content: center;">Find me:</h2>
 <ul>
